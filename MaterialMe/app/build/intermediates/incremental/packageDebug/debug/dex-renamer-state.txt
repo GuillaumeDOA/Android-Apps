@@ -1,0 +1,4 @@
+#Sun Jan 05 17:29:18 CET 2020
+base.0=D\:\\School\\2EA1_CLOUD\\Mobile Development\\MaterialMe\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

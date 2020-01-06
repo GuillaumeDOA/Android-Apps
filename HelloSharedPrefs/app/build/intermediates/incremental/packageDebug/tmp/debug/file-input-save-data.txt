@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Jan 06 12:51:07 CET 2020
+0.baseType=DIRECTORY
+0.base=D\:\\School\\2EA1_CLOUD\\Mobile Development\\HelloSharedPrefs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
